@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+
+azure-cosmos
+azure-search-documents
+azure-identity
+
+openai
+
+langchain
+langchain-core
+langgraph
+
+tiktoken
